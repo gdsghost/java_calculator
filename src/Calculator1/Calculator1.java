@@ -427,7 +427,7 @@ String enternumber=txt_display.getText()+btn02.getText();
       
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Calculator1().setVisible(true);
+                new Calculator1().setVisible(false);
             }
         });
     }
