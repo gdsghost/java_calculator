@@ -430,6 +430,7 @@ String enternumber=txt_display.getText()+btn02.getText();
                 new Calculator1().setVisible(true);
             }
         });
+	   System.out.println("Prohram is OVER!!!");
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
